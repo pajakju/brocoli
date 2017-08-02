@@ -1,0 +1,4 @@
+# list command
+add
+commit <options>
+clone <username> <url>
